@@ -1,0 +1,4 @@
+
+*.generated.swift
+Pods/
+Podfile.lock

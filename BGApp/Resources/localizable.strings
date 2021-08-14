@@ -1,0 +1,36 @@
+/* 
+  localizable.strings
+  BGApp
+
+  Created by BasemElgendy on 10/08/2021.
+  
+*/
+"no_data_found" = "no_data_found";
+"please_try_again_later" = "please_try_again_later";
+"app_lang" = "app_lang";
+"error" = "error";
+"cancel" = "cancel";
+"file_type" = "fileType";
+"camera" = "camera";
+"gallery" = "gallery";
+"sorry" = "sorry";
+"your_device_not_support_camera" = "your_device_not_support_camera";
+
+
+"pull_up_to_load_more"="pull_up_to_load_more";
+"release_to_load_more"="release_to_load_more";
+"loading"="loading";
+"pull_down_to_refresh"="pull_down_to_refresh";
+"release_to_refresh"="release_to_refresh";
+"no_more_data"="no_more_data";
+"last_update"="last_update";
+"today"="today";
+"no_record"="no_record";
+"no_data_founded"="no_data_founded";
+"app_resart_required"="app_resart_required";
+"lang_body"="lang_body";
+"close_now"="close_now";
+"pop_up_tilte" = "pop_up_tilte" ;
+"arabic_title" = "arabic_title" ;
+"english_title" ="english_title";
+"cancel_title" = "cancel_title" ;
